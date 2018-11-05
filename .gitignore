@@ -1,0 +1,9 @@
+#*******************************
+#use this to reset gitignore
+#git rm -r --cached .
+#git add .
+#*******************************
+bin
+obj
+node_modules/
+sample.dat
